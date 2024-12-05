@@ -73,11 +73,9 @@ export default {
 <style lang="less" scoped>
   .stepFormText {
     margin-bottom: 24px;
-    :global {
-      .ant-form-item-label,
-      .ant-form-item-control {
-        line-height: 22px;
-      }
-    }
+        /deep/ .ant-form-item-label,
+        /deep/ .ant-form-item-control {
+            line-height: 22px;
+        }
   }
 </style>

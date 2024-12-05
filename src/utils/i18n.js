@@ -16,6 +16,7 @@ function initI18n(locale, fallback) {
     locale,
     fallbackLocale: fallback,
     silentFallbackWarn: true,
+    silentTranslationWarn: false, // 启用警告日志
   }
   return new VueI18n(i18nOptions)
 }
