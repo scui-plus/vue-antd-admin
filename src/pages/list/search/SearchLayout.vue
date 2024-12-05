@@ -60,15 +60,13 @@ export default {
 <style lang="less" scoped>
   .search-head{
     background-color: @base-bg-color;
-    margin: -24px;
+    margin-top: -24px;
     &.head.fixed{
-      margin: -24px 0;
     }
     .search-input{
       text-align: center;
     }
   }
   .search-content{
-    margin-top: 48px;
   }
 </style>
