@@ -19,7 +19,7 @@
             <div class="author">
               <a-avatar size="small" src="https://gw.alipayobjects.com/zos/rmsportal/WdGqmHpayyMjiEhcKoVE.png" />
               <a>ICZER</a>发布在
-              <a href="https://github.com/iczer">https://github.com/iczer</a>
+              <a href="https://github.com/scui-plus">https://github.com/scui-plus</a>
               <em>2018-08-05 22:23</em>
             </div>
           </div>

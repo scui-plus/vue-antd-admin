@@ -274,7 +274,7 @@ const options = {
           path: 'document',
           meta: {
             icon: 'file-word',
-            link: 'https://iczer.gitee.io/vue-antd-admin-docs/'
+            link: 'https://scui-plus.github.io/vue-antd-admin-docs/'
           }
         }
       ]

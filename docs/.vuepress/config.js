@@ -7,7 +7,7 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/logo.png',
-    repo: 'iczer/vue-antd-admin',
+    repo: 'scui-plus/vue-antd-admin',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '在 Github 上帮助我们编辑此页',
