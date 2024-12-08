@@ -2,7 +2,7 @@
 <h1 align="center">Vue Antd Admin</h1>
 
 <div align="center">
-  
+
 [Ant Design Pro](https://github.com/ant-design/ant-design-pro)'s implementation with Vue.  
 An out-of-box UI solution for enterprise applications as a React boilerplate.
 
@@ -10,7 +10,7 @@ An out-of-box UI solution for enterprise applications as a React boilerplate.
 [![VueCLI](https://img.shields.io/badge/VueCLI-4-green)](https://cli.vuejs.org)
 [![Vue](https://img.shields.io/badge/Vue.js-2.x-green)](https://v2.vuejs.org)
 [![Release](https://img.shields.io/github/v/release/scui-plus/vue-antd-admin)](https://github.com/scui-plus/vue-antd-admin/releases/latest)
-![image](./src/assets/img/preview.png)   
+![image](./src/assets/img/preview.png)
 
 Multiple theme modes available：  
 ![image](./src/assets/img/preview-nine.png)
@@ -21,31 +21,41 @@ Multiple theme modes available：
 - FAQ：https://scui-plus.github.io/vue-antd-admin-docs/start/faq.html
 
 ## Browsers support
+
 Modern browsers and IE10.
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera |
-| --- | --- | --- | --- | --- |
-| IE10, Edge | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IE10, Edge                                                                                                                                                                                                      | last 2 versions                                                                                                                                                                                                   | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                           |
 
 ## Usage
+
 ### clone
+
 ```bash
 $ git clone https://github.com/scui-plus/vue-antd-admin.git
 ```
+
 ### yarn
+
 ```bash
 $ yarn install
 $ yarn serve
 ```
+
 ### or npm
+
 ```
 $ npm install
 $ npm run serve
 ```
+
 More instructions at [documentation](https://scui-plus.github.io/vue-antd-admin-docs).
 
 ## Contributing
+
 Any type of contribution is welcome, here are some examples of how you may contribute to this project: :star2:：
+
 - Use Vue Antd Admin in your daily work.
 - Submit [Issue](https://github.com/scui-plus/vue-antd-admin/issues) to report :bug: or ask questions.
 - Propose [Pull Request](https://github.com/scui-plus/vue-antd-admin/pulls) to improve our code.
