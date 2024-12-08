@@ -8,11 +8,11 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d dist -b pages -r https://github.com/iczer/vue-antd-admin.git",
+    "deploy": "gh-pages -d dist -b dist -r git@github.com:scui-plus/vue-antd-admin.git",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "predocs:deploy": "yarn docs:build",
-    "docs:deploy": "gh-pages -d docs/.vuepress/dist -b doc -r https://github.com/iczer/vue-antd-admin.git"
+    "docs:deploy": "gh-pages -d docs/.vuepress/dist -b docs -r git@github.com:scui-plus/vue-antd-admin-docs.git"
   },
   "dependencies": {
     "@antv/data-set": "^0.11.4",
