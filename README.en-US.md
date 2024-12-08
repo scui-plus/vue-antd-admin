@@ -6,20 +6,19 @@
 [Ant Design Pro](https://github.com/ant-design/ant-design-pro)'s implementation with Vue.  
 An out-of-box UI solution for enterprise applications as a React boilerplate.
 
-[![MIT](https://img.shields.io/github/license/iczer/vue-antd-admin)](https://github.com/iczer/vue-antd-admin/blob/master/LICENSE)
-[![Dependence](https://img.shields.io/david/iczer/vue-antd-admin)](https://david-dm.org/iczer/vue-antd-admin)
-[![DevDependencies](https://img.shields.io/david/dev/iczer/vue-antd-admin)](https://david-dm.org/iczer/vue-antd-admin?type=dev)
-[![Release](https://img.shields.io/github/v/release/iczer/vue-antd-admin)](https://github.com/iczer/vue-antd-admin/releases/latest)
+[![MIT](https://img.shields.io/github/license/scui-plus/vue-antd-admin)](https://github.com/scui-plus/vue-antd-admin/blob/master/LICENSE)
+[![VueCLI](https://img.shields.io/badge/VueCLI-4-green)](https://cli.vuejs.org)
+[![Vue](https://img.shields.io/badge/Vue.js-2.x-green)](https://v2.vuejs.org)
+[![Release](https://img.shields.io/github/v/release/scui-plus/vue-antd-admin)](https://github.com/scui-plus/vue-antd-admin/releases/latest)
 ![image](./src/assets/img/preview.png)   
 
 Multiple theme modes available：  
 ![image](./src/assets/img/preview-nine.png)
 </div>
 
-- Preview：https://vue-antd-admin.pages.dev
-- Documentation：https://doc.vue-antd-admin.pages.dev
-- FAQ：https://doc.vue-antd-admin.pages.dev/start/faq.html
-- Mirror Repo in China：https://gitee.com/iczer/vue-antd-admin
+- Preview：https://scui-plus.github.io/vue-antd-admin/
+- Documentation：https://scui-plus.github.io/vue-antd-admin-docs/
+- FAQ：https://scui-plus.github.io/vue-antd-admin-docs/start/faq.html
 
 ## Browsers support
 Modern browsers and IE10.
@@ -31,7 +30,7 @@ Modern browsers and IE10.
 ## Usage
 ### clone
 ```bash
-$ git clone https://github.com/iczer/vue-antd-admin.git
+$ git clone https://github.com/scui-plus/vue-antd-admin.git
 ```
 ### yarn
 ```bash
@@ -43,11 +42,11 @@ $ yarn serve
 $ npm install
 $ npm run serve
 ```
-More instructions at [documentation](https://iczer.gitee.io/vue-antd-admin-docs).
+More instructions at [documentation](https://scui-plus.github.io/vue-antd-admin-docs).
 
 ## Contributing
 Any type of contribution is welcome, here are some examples of how you may contribute to this project: :star2:：
 - Use Vue Antd Admin in your daily work.
-- Submit [Issue](https://github.com/iczer/vue-antd-admin/issues) to report :bug: or ask questions.
-- Propose [Pull Request](https://github.com/iczer/vue-antd-admin/pulls) to improve our code.
+- Submit [Issue](https://github.com/scui-plus/vue-antd-admin/issues) to report :bug: or ask questions.
+- Propose [Pull Request](https://github.com/scui-plus/vue-antd-admin/pulls) to improve our code.
 - Join the community and share your experiences with us. QQ Group:942083829、812277510(full)、610090280(full)
