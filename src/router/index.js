@@ -28,6 +28,7 @@ function initRouter(isAsync) {
   formatRoutes(options.routes)
   return new Router({
     mode: 'history',
+    base: process.env.VUE_APP_PUBLIC_PATH,
     ...options
   })
 }
